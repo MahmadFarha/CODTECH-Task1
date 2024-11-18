@@ -10,7 +10,7 @@
 ### Project:  Data Preprocessing  
 
 ### Objective  
-The DATA PROCESSING project aims to streamline the collection, organization, and transformation of raw data into meaningful insights. It focuses on enhancing data quality, ensuring efficient analysis, and enabling better decision-making.
+The Data Processing project aims to streamline the collection, organization, and transformation of raw data into meaningful insights. It focuses on enhancing data quality, ensuring efficient analysis, and enabling better decision-making.
 
 
 ### Key Activities
