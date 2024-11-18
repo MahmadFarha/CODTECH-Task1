@@ -2,7 +2,7 @@
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CT6WDS2212  
 **Domain:** Artificial Intelligence  
-**Duration:** October 2024 ecemberto D 2024
+**Duration:** October 2024 to December 2024  
 **Mentor:**  
 
 ## Overview of the Project
