@@ -1,9 +1,9 @@
 **Name:** MAHMAD FARHA FATHIMA  
 **Company:** CODTECH IT SOLUTIONS  
 **ID:**  
-**Domain:**
-**Duration:** 
-**Mentor:**
+**Domain:**  
+**Duration:**  
+**Mentor:**  
 
 ## Overview of the Project
 
