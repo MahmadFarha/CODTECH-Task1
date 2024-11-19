@@ -17,7 +17,7 @@ Fig-3
 Fig-4  
 ![Screenshot 2024-11-19 180933](https://github.com/user-attachments/assets/7307db94-d21b-4cc2-88ed-6b1a2cf37ae7)  
 Fig-5
-![Screenshot 2024-11-19 180947](https://github.com/user-attachments/assets/61eadddd-207c-4b39  
+![Screenshot 2024-11-19 180947](https://github.com/user-attachments/assets/61eadddd-207c-4b39)  
 Fig-6
 ![Screenshot 2024-11-19 181003](https://github.com/user-attachments/assets/bcc68ce4-d804-4835-b2a0-6b1a535a8e78)
 -93b1-4985daa0e03b)  
