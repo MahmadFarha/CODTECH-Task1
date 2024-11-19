@@ -9,6 +9,14 @@
 
 ### Project:  Data Preprocessing  
 
+![Screenshot 2024-11-18 180801](https://github.com/user-attachments/assets/ba9079f8-e8ee-4d1f-b5ee-72751a134e28)  
+![Screenshot 2024-11-19 180854](https://github.com/user-attachments/assets/88d2b866-692d-4384-aa70-e6873db81023)  
+![Screenshot 2024-11-19 180915](https://github.com/user-attachments/assets/d43d3b5a-2a72-48b4-93d7-1e4f8311aac3)  
+![Screenshot 2024-11-19 180933](https://github.com/user-attachments/assets/7307db94-d21b-4cc2-88ed-6b1a2cf37ae7)  
+![Screenshot 2024-11-19 180947](https://github.com/user-attachments/assets/61eadddd-207c-4b39  
+![Screenshot 2024-11-19 181003](https://github.com/user-attachments/assets/bcc68ce4-d804-4835-b2a0-6b1a535a8e78)
+-93b1-4985daa0e03b)  
+
 ### Objective  
 The Data Processing project aims to streamline the collection, organization, and transformation of raw data into meaningful insights. It focuses on enhancing data quality, ensuring efficient analysis, and enabling better decision-making.
 
